@@ -82,10 +82,10 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
           ♥️♥️♥️ ßєş┼ ๏F LЦcK  ♥️♥️♥️
       ♥️♥️ rąM乙ąЙ MЦßąrąK ┼๏ єVєrY ß๏đY  ♥️♥️
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mabi
-\033[1;96mInstagram \033[1;93m: \033[1: itx_muskan_yr
-\033[1;96mFacebook  \033[1;93m: \033[1: abi
-\033[1;96myoutub \033[1;93m: \033[1;92mh https://www.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA
+\033[1;96mAuthor  \033[1;93m: \033[1;92mhussna_the_technical_queen
+\033[1;96mInstagram \033[1;93m: \033[1: technicalcyber
+\033[1;96mFacebook  \033[1;93m: \033[1: bareera.laiba.77
+\033[1;96myoutub \033[1;93m: \033[1;92mh https://www.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA ')
 \033[1;91m======================================="""
 
 def tik():
@@ -121,13 +121,13 @@ print  """\033[1;91m
                    WhatsApp : 0014406281533
 \033[1;96mAuthor  \033[1;93m: \033[1;92mabi
 \033[1;96mInstagram \033[1;93m: \033[1;92mtechnicalcyber
-\033[1;96mFacebook  \033[1;93m: \033[1;92m periodicerror998
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/abicreation/saratricker
+\033[1;96mFacebook  \033[1;93m: \033[1;92m bareera.laiba.77
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/abicreation/tech_queen_hussana
 \033[1;91mYoutube \033[1;93m:\033[1;92mhttps://www.youtub.com/UCDKRvmw7ufXejkYXG51liKA
 print " \x1b[1;93m===========================https://www.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA================================="
 
-CorrectUsername = "saratricker"
-CorrectPassword = "creation"
+CorrectUsername = "technical"
+CorrectPassword = "queen"
 
 loop = 'true'
 while (loop == 'true'):
@@ -452,14 +452,14 @@ Expect error:
 																	Secuessfully.append(user+pass7)
 																	
 															Username"abi"
-Password"creation"
+Password"queen"
 		except:
 			pass
 		
 	p = ThreadPool(30)
 	p.map(main, id)
 	print 42*"\033[1;96m="
-	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mProcess Has Been Completed sara tricker says Thank You♥️ \033[1;97m....' using my command 
+	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mProcess Has Been Completed the-tech-queen_hussna tricker says Thank You♥️ \033[1;97m....' using my command 
 	print"\033[1;96m[+] \033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(Secuessfully)
 	print("\033[1;96m[+] \033[1;92mTHANKS FOR USING MY COMMANDS ! WE WILL BE RIGHT BACK \033[1;91m: \033[1;97mout/Secuessfully.txt")
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
